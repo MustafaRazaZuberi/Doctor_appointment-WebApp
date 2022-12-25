@@ -1,0 +1,22 @@
+.tokenProcedure button{
+    display: block;
+    margin: 0 5px;
+    
+}
+.tokenProcedure{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 25px;
+}
+.singleItem{
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.tableHeading{
+    font-family: cursive;
+    font-size: 18px;
+    text-align: center;
+}
